@@ -1,2 +1,3 @@
 # ML-Exercises
-Machine Learning course exercises
+Machine Learning - Standford University (Coursera)
+Assignments
